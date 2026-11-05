@@ -1,0 +1,334 @@
+[
+{
+"code": "ท21101",
+"title": "Thai Language 1"
+},
+{
+"code": "ค21101",
+"title": "Fundamental Mathematics 1"
+},
+{
+"code": "ค21201",
+"title": "Essential Mathematics 1"
+},
+{
+"code": "ว21101",
+"title": "Science 1"
+},
+{
+"code": "ว21103",
+"title": "Technology and Computing Science"
+},
+{
+"code": "ว20201",
+"title": "Scientific Inquiry"
+},
+{
+"code": "ส21101",
+"title": "Social Studies 1"
+},
+{
+"code": "ส21103",
+"title": "Religious Studies 1"
+},
+{
+"code": "ส21105",
+"title": "History Studies 1"
+},
+{
+"code": "พ21101",
+"title": "Health 1"
+},
+{
+"code": "พ21102",
+"title": "Physical Education 1"
+},
+{
+"code": "ศ20222",
+"title": "Western Music"
+},
+{
+"code": "ศ21101",
+"title": "Visual Art 1"
+},
+{
+"code": "อ21201",
+"title": "Listening Speaking 1"
+},
+{
+"code": "ญ21201",
+"title": "Basic Japanese"
+},
+{
+"code": "อ21101",
+"title": "Fundamental English 1"
+},
+{
+"code": "ท21102",
+"title": "Thai Language 2"
+},
+{
+"code": "ค21102",
+"title": "Fundamental Mathematics 2"
+},
+{
+"code": "ค21202",
+"title": "Essential Mathematics 2"
+},
+{
+"code": "ว21102",
+"title": "Science 2"
+},
+{
+"code": "ว21203",
+"title": "Science Projects for Beginner"
+},
+{
+"code": "ว21202",
+"title": "Open eyes in Computer Science"
+},
+{
+"code": "ว20263",
+"title": "Fundamentals of Astronomy"
+},
+{
+"code": "ส21102",
+"title": "Social Studies 2"
+},
+{
+"code": "ส21104",
+"title": "Religious Studies 2"
+},
+{
+"code": "ส21106",
+"title": "History Studies 2"
+},
+{
+"code": "พ21103",
+"title": "Health 2"
+},
+{
+"code": "พ21104",
+"title": "Physical Education 2"
+},
+{
+"code": "ศ21102",
+"title": "Music 1"
+},
+{
+"code": "ศ21103",
+"title": "Thai Dance 1"
+},
+{
+"code": "ง21101",
+"title": "Occupations 1"
+},
+{
+"code": "อ21102",
+"title": "Fundamental English 2"
+},
+{
+"code": "อ21202",
+"title": "Listening and Speaking 2"
+},
+{
+"code": "ท22101",
+"title": "Thai Language 3"
+},
+{
+"code": "ท22201",
+"title": "Writing and Critical Analysis of Academic Writing"
+},
+{
+"code": "ค22101",
+"title": "Fundamental Mathematics 3"
+},
+{
+"code": "ค22201",
+"title": "Essential Mathematics 3"
+},
+{
+"code": "ว22101",
+"title": "Science 3"
+},
+{
+"code": "ว22201",
+"title": "Project 1"
+},
+{
+"code": "ว20271",
+"title": "Sciencetific Literacy"
+},
+{
+"code": "ว22103",
+"title": "Technology for Problem Solving"
+},
+{
+"code": "ส22101",
+"title": "Social Studies 3"
+},
+{
+"code": "ส22105",
+"title": "History Studies 3"
+},
+{
+"code": "ส22103",
+"title": "Religious Studies 3"
+},
+{
+"code": "พ22101",
+"title": "Health 3"
+},
+{
+"code": "พ22103",
+"title": "Physical Education 3"
+},
+{
+"code": "ศ22102",
+"title": "Music 2"
+},
+{
+"code": "ง22101",
+"title": "Occupations 2"
+},
+{
+"code": "อ22201",
+"title": "English for Communication 1"
+},
+{
+"code": "อ22101",
+"title": "Fundamental English 3"
+},
+{
+"code": "ท20271",
+"title": "Reading Literacy"
+},
+{
+"code": "ท22102",
+"title": "Thai Language 4"
+},
+{
+"code": "ค20271",
+"title": "Mathematical Literacy"
+},
+{
+"code": "ค22102",
+"title": "Fundamental Mathematics 4"
+},
+{
+"code": "ค22202",
+"title": "Essential Mathematics 4"
+},
+{
+"code": "ว22102",
+"title": "Science 4"
+},
+{
+"code": "ว22202",
+"title": "Project 2"
+},
+{
+"code": "ว22203",
+"title": "Computer programming"
+},
+{
+"code": "ส22104",
+"title": "Religious Studies 4"
+},
+{
+"code": "ส22102",
+"title": "Social Studies 4"
+},
+{
+"code": "ส22106",
+"title": "History Studies 4"
+},
+{
+"code": "พ22102",
+"title": "Health 4"
+},
+{
+"code": "พ22104",
+"title": "Physical Education 4"
+},
+{
+"code": "ศ22101",
+"title": "Visual Art 2"
+},
+{
+"code": "ศ20224",
+"title": "Creative Music"
+},
+{
+"code": "ศ22103",
+"title": "Thai Dance 2"
+},
+{
+"code": "อ22202",
+"title": "English for Communication 2"
+},
+{
+"code": "อ22102",
+"title": "Fundamental English 4"
+},
+{
+"code": "ท23101",
+"title": "Thai Language 5"
+},
+{
+"code": "ค23101",
+"title": "Fundamental Mathematics 5"
+},
+{
+"code": "ค23201",
+"title": "Essential Mathematics 5"
+},
+{
+"code": "ว23101",
+"title": "Science 5"
+},
+{
+"code": "ว23201",
+"title": "Young Scientists Community"
+},
+{
+"code": "ว23103",
+"title": "Digital Technology and Innovation"
+},
+{
+"code": "ส23101",
+"title": "Social Studies 5"
+},
+{
+"code": "ส23103",
+"title": "Religious Studies 5"
+},
+{
+"code": "ส23105",
+"title": "History Studies 5"
+},
+{
+"code": "พ23101",
+"title": "Health 5"
+},
+{
+"code": "พ23103",
+"title": "Physical Education 5"
+},
+{
+"code": "ศ20221",
+"title": "Thai Music"
+},
+{
+"code": "ศ23103",
+"title": "Thai Dance 3"
+},
+{
+"code": "อ23201",
+"title": "Thematic English"
+},
+{
+"code": "อ23101",
+"title": "Fundamental English 5"
+}
+]
